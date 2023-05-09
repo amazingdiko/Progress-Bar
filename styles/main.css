@@ -1,13 +1,13 @@
 @font-face {
     font-weight: 400;
-    font-family: "GT Easti Pro";
-    src: url("../font/GT_Eesti_Pro_Display_Regular.otf");
+    font-family: "GT Easti Pro Bold";
+    src: url("../font/GT_Easti_Pro_Bold.otf");
   }
 
   * {
     margin: 0;
     padding: 0;
-    font-family: "GT Easti Pro";
+    font-family: "GT Easti Pro Bold";
   }
 
 html, body, .container {
