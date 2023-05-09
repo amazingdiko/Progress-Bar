@@ -71,13 +71,13 @@ class Progress {
       const el = document.createElement("div");
       el.className = "progress-bar";
       el.innerHTML = `
-        <svg class="progress-ring" width="120" height="120">
-            <circle stroke="#EEF3F6" stroke-width="10"
-                    cx="60" cy="60" r="52" fill="transparent"
+        <svg class="progress-ring" width="150" height="150">
+            <circle stroke="#EEF3F6" stroke-width="13"
+                    cx="50%" cy="50%" r="67" fill="transparent"
             />
             <circle class="progress-ring__circle_filled"
-                    stroke="#005BFF" stroke-width="10"
-                    cx="60" cy="60" r="52" fill="transparent"
+                    stroke="#005BFF" stroke-width="13"
+                    cx="50%" cy="50%" r="67" fill="transparent"
             />
         </svg>
       `;
