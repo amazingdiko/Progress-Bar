@@ -13,10 +13,17 @@ _____
 _____
 
 Технологии
-• **JS** (без jQuery и других библиотек / фреймворков, упрощающих и дополняющих функциональность окружения браузера).
-• **CSS**
-• **HTML** (без использования шаблонизаторов).
+- **JS** (без jQuery и других библиотек / фреймворков, упрощающих и дополняющих функциональность окружения браузера).
+- **CSS**
+- **HTML** (без использования шаблонизаторов).
 
 _____
 
 
+![progress-bar](https://github.com/amazingdiko/amazingdiko.github.io/blob/master/gifs/progress-bar.gif)
+
+
+![progress-bar1](https://github.com/amazingdiko/amazingdiko.github.io/blob/master/gifs/progress-bar2.gif)
+
+
+![progress-bar2](https://github.com/amazingdiko/amazingdiko.github.io/blob/master/gifs/progress-bar1.gif)
